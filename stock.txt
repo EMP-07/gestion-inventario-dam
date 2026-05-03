@@ -1,1 +1,2 @@
 Listado de Productos: Camisetas y Pantalones
+Parche: Límite de stock máximo establecido
