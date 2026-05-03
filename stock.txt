@@ -1,2 +1,5 @@
 Listado de Productos: Camisetas y Pantalones
+gestion-zapatos
+Ahora también se gestionan los zapatos
 Parche: Límite de stock máximo establecido
+main
